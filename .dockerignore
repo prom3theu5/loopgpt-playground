@@ -1,0 +1,11 @@
+.env
+.env.template
+agent.py
+build.sh
+run-agent.sh
+run-cli.sh
+Dockerfile
+.gitignore
+.dockerignore
+.git/
+.idea/
